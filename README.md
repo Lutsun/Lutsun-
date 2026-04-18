@@ -69,11 +69,8 @@ E-commerce website for a beauty brand.
 ## 📫 Contact
 
 📧 Email: [contact@dasylva.dev](mailto:contact@dasylva.dev)
-💼 LinkedIn: https://linkedin.com/in/tonprofil
-📱 Instagram: @tonpseudo
+💼 LinkedIn: https://www.linkedin.com/in/serge-da-sylva-8ab451382/
+📱 Instagram: @s04.da
 
 ---
 
-## ⚡ Vision
-
-> **Vision on, pression none.**
